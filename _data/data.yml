@@ -112,15 +112,65 @@ publications:
         authors: Taewon Song and Taeyoon Kim
         conference: Applied Science, Vol. 11, Issue. 1, p. 317, Jan. 2021.
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "An Energy Efficient Message Dissemination Scheme in Platoon-Based Driving Systems"
+        link: "https://www.mdpi.com/1996-1073/13/15/3940"
+        authors: Taewon Song, Taeyoon Kim, and Sangheon Pack
+        conference: "Energies, Vol. 13, Issue. 15, p. 3940, Aug. 2020."
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "MU-MIMO enabled uplink OFDMA MAC protocol in dense IEEE 802.11ax WLANs"
+        link: "https://www.sciencedirect.com/science/article/pii/S2405959520300825"
+        authors: Sohyun Joo, Taeyoon Kim, Taewon Song, and Sangheon Pack
+        conference: "ICT Express, Vol. 6, Issue. 4, pp. 287-290, May. 2020."
+
+      - title: "Performance Analysis of Addressing Mechanisms in Inter-Operable IoT Device with Low-Power Wake-Up Radio"
+        link: "https://www.mdpi.com/1424-8220/19/23/5106"
+        authors: Taewon Song and Taeyoon Kim
+        conference: "Sensors, Vol. 19, Issue. 23, p. 5106, Nov. 2019."
+
+      - title: "Adaptive and Distributed Radio Resource Allocation in Densely Deployed Wireless LANs: A Game Theoretic Approach"
+        link: "https://ieeexplore.ieee.org/document/8253899"
+        authors: Taewon Song, Tae-Yoon Kim, Wonjung Kim, and Sangheon Pack
+        conference: "IEEE Transactions on Vehicular Technology (TVT), Vol. 67, Issue. 5, pp. 4466-4475, May 2018."
+
+      - title: "Phase-Divided MAC Protocol for Integrated Uplink and Downlink Multi-User MIMO WLANs"
+        link: "https://ieeexplore.ieee.org/document/8119964"
+        authors: Wonjung Kim, Taewon Song, Tae-Yoon Kim, Hyunhee Park, and Sangheon Pack
+        conference: "IEEE Transactions on Vehicular Technology (TVT), Vol. 12, Issue. 12, pp. 11419-11424, December 2017."
+
+      - title: "RA-PSM: A Rate-Aware Power Saving Mechanism in Multi-Rate Wireless LANs"
+        link: "https://link.springer.com/article/10.1007/s11276-015-1064-3"
+        authors: Sangheon Pack, Seongman Min, Taewon Song, Wonjung Kim, Nakjung Choi, and Hyunhee Park
+        conference: "Springer Wireless Networks, Vol. 22, Issue. 6, pp. 1767-1777, August 2016."
+        
+      - title: "ORS-FA: An Opportunistic Relay Selection Scheme for Frame-Aggregated Environments"
+        link: "https://link.springer.com/article/10.1007/s11277-015-2351-0"
+        authors: Taewon Song, Wonjung Kim, and Sangheon Pack
+        conference: " Springer Wireless Personal Communications, Vol. 82, Issue. 4, pp. 2351-2361, June 2015."
+
+      - title: "Multi-band Directional Neighbor Discovery in Self-Organized mmWave ad-hoc Networks"
+        link: "https://ieeexplore.ieee.org/document/6826578"
+        authors: Hyunhee Park, Yongsun Kim, Taewon Song, and Sangheon Pack
+        conference: "IEEE Transactions on Vehicular Technology (TVT), Vol. 64, Issue. 3, pp. 1143-1155, March 2015."
+
+      - title: "FRAS: Fair Rate Adaptation Scheme for Directional Multicast in 60GHz Multi-Gigabits WLANs"
+        link: "https://link.springer.com/content/pdf/10.1007/s11277-013-1551-8.pdf"
+        authors: Wonjung Kim, Taewon Song, and Sangheon Pack
+        conference: "Springer Wireless Personal Communications, Vol. 77, Issue. 2, pp. 1007-1017, July 2014."
+
+      - title: "A Cross Layer Approach to Reduce Channel Access Delay Jitter in IEEE 802.11 WLANs"
+        link: "https://link.springer.com/content/pdf/10.1007/s11277-012-0639-x.pdf"
+        authors: Sangheon Pack, Kihun Kim, Wonjung Kim, Taewon Song, and Seongman Min
+        conference: "Springer Wireless Personal Communications, Vol. 69, Issue. 4, pp. 1379-1390, April 2013."
+
+      - title: "An Incremental Multicast Grouping Scheme for mmWave Networks with Directional Antennas"
+        link: "https://ieeexplore.ieee.org/document/6414579"
+        authors: Hyunhee Park, Seunghyun Park, Taewon Song, and Sangheon Pack
+        conference: "IEEE Communications Letter, Vol. 17, Issue. 3, pp. 616-619, March 2013."
+
+      - title: "A Channel Adaptive ACK Mechanism in High Rate Wireless Personal Area Networks"
+        link: "https://link.springer.com/article/10.1007/s11277-011-0353-0"
+        authors: Jong-In Lee, Wonjung Kim, Taewon Song, Sangheon Pack*, Chul-Hee Kang, and Sungho Hwang
+        conference: "Springer Wireless Personal Communications, Vol. 66, Issue. 2, pp. 473-488, September 2012."
 
 skills:
     title: Skills &amp; Proficiency
