@@ -107,10 +107,10 @@ publications:
     #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
     #   bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Performance Analysis of Synchronous Multi-Radio Multi-Link MAC Protocols in IEEE 802.11be Extremely High Throughput WLANs
+        link: "https://www.mdpi.com/2076-3417/11/1/317"
+        authors: Taewon Song and Taeyoon Kim
+        conference: Applied Science, Vol. 11, Issue. 1, p. 317, Jan. 2021.
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
@@ -121,9 +121,6 @@ publications:
         link: "#"
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
-
-temps:
-    title: temps
 
 skills:
     title: Skills &amp; Proficiency
