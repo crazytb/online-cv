@@ -50,12 +50,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Taewon Song received the B.S. and Ph.D. degrees in electrical engineering from Korea University, Seoul, South Korea, in 2010 and 2017, respectively. In 2021, he joined Soonchunhyang University, where he is currently an Assistant Professor at Department of Internet of Things. In 2020, he was a Research Assistant Professor at SCH Convergence Science Institute in Soonchunhyang University. From 2017 to 2020, he was a Senior Researcher at the Advanced Standard R&D Laboratory, LG Electronics, where he worked on standardization for wake-up radio and next-generation WLANs. He was a Visiting Student supported by the BK21+ project with the University of Florida from February 2015 to April 2015. From January 2012 to February 2012, he was a Visiting Researcher at the National Institute of Information and Communications Technology. His current research interests include cooperative and opportunistic networking, low-power wake-up radio, and the wireless medium access control protocol of next-generation WLANs. 
 education:
     - degree: Ph.D. in Electronics, Electrical and Computer Engineering
       university: Korea University
@@ -66,49 +61,24 @@ education:
       time: 2005 - 2010
       # details: |
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - role: Research Assistant Professor
+      time: 2020. 9. - 2021. 2
+      company: SCH Convergence Science Institute, SCH MediaLabs, Soonchunhyang University 
+    - role: Senior Researcher
+      time: 2017. 2. - 2020. 9.
+      company: C&M Standard Lab., Chief Technology Officer, LG Electronics
+    - role: Visiting Researcher
+      time: 2015.
+      company: University of Florida, Gainesville, Florida, USA
+    - role: Visiting Researcher
+      time: 2012.
+      company: Network Architecture Group, National Institute of Information and Communications Technology (NICT), Japan
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    # intro: >
+    #   You can list your side projects or open source libraries in this
+    #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Velocity
         link: "#hook"
