@@ -16,6 +16,7 @@
   </div><!--//intro-->
   {% endif %}
 
+  <ol>
   {% for publication in publications.papers %}
   <div class="item">
     {% if publication.link %}
@@ -27,6 +28,7 @@
     <div class="publication-conference">{{ publication.conference }}</div>
   </div><!--//item-->
   {% endfor %}
+  </ol>
 
 </section><!--//section-->
 {% endif %}
