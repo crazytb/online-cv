@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: twsong@sch.ac.kr
     phone: (82) 041-530-1577
-    website: labs.sch.ac.kr/department/iot.php
+    website: home.sch.ac.kr/iot/
     linkedin: taewon-song-1b2b26139/
     # xing: alandoe
     github: crazytb
@@ -61,9 +61,12 @@ education:
       time: 2005 - 2010
       # details: |
 experiences:
+    - role: Assistant Professor
+      time: 2021. 3. - Current
+      company: Department of IoT, SCH MediaLabs, Soonchunhyang University
     - role: Research Assistant Professor
       time: 2020. 9. - 2021. 2
-      company: SCH Convergence Science Institute, SCH MediaLabs, Soonchunhyang University 
+      company: SCH Convergence Science Institute, SCH MediaLabs, Soonchunhyang University
     - role: Senior Researcher
       time: 2017. 2. - 2020. 9.
       company: C&M Standard Lab., Chief Technology Officer, LG Electronics
