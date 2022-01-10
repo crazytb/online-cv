@@ -78,15 +78,16 @@ experiences:
       company: Network Architecture Group, National Institute of Information and Communications Technology (NICT), Japan
 
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    title: Activities
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: ICCE 2022 session chair
+        link: "https://edas.info/p28454"
+        # tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: ICCE-Asia 2020 session chair
+        link: "http://icce-asia.cric.kr/2020/"
+        # tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      
 
     #   - title: DevStudio
     #     link: "#"
