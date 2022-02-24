@@ -55,11 +55,11 @@ career-profile:
 education:
     - degree: Ph.D. in Electronics, Electrical and Computer Engineering
       university: Korea University
-      time: 2010 - 2017
+      time: 2010. - 2017.
       # details: |
     - degree: B.E. in Electrical Engineering
       university: Korea University
-      time: 2005 - 2010
+      time: 2005. - 2010.
       # details: |
 
 experiences:
@@ -80,21 +80,15 @@ experiences:
       company: Network Architecture Group, National Institute of Information and Communications Technology (NICT), Japan
 
 awards:
-    - item: Assistant Professor
-      time: 2021. 3. - Current
-      company: Department of IoT, SCH MediaLabs, Soonchunhyang University
-    - item: Research Assistant Professor
-      time: 2020. 9. - 2021. 2
-      company: SCH Convergence Science Institute, SCH MediaLabs, Soonchunhyang University
-    - item: Senior Researcher
-      time: 2017. 2. - 2020. 9.
-      company: C&M Standard Lab., Chief Technology Officer, LG Electronics
-    - item: Visiting Researcher
+    - item: Long-term Overseas Visiting Scholarship
       time: 2015.
-      company: University of Florida, Gainesville, Florida, USA
-    - item: Visiting Researcher
+      company: BK21+, National Research Foundation of Korea (NRF)
+    - item: The 19th Winter Institute Program
       time: 2012.
-      company: Network Architecture Group, National Institute of Information and Communications Technology (NICT), Japan
+      company: Japan International Science and Technology Exchange Center (JISTEC) and National Research Foundation of Korea (NRF)
+    - item: LGE Scholarship
+      time: 2005.
+      company: LG Electronics CTO Division
 
 projects:
     title: Activities
