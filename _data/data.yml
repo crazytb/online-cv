@@ -77,6 +77,23 @@ experiences:
       time: 2012.
       company: Network Architecture Group, National Institute of Information and Communications Technology (NICT), Japan
 
+awards:
+    - item: Assistant Professor
+      time: 2021. 3. - Current
+      company: Department of IoT, SCH MediaLabs, Soonchunhyang University
+    - item: Research Assistant Professor
+      time: 2020. 9. - 2021. 2
+      company: SCH Convergence Science Institute, SCH MediaLabs, Soonchunhyang University
+    - item: Senior Researcher
+      time: 2017. 2. - 2020. 9.
+      company: C&M Standard Lab., Chief Technology Officer, LG Electronics
+    - item: Visiting Researcher
+      time: 2015.
+      company: University of Florida, Gainesville, Florida, USA
+    - item: Visiting Researcher
+      time: 2012.
+      company: Network Architecture Group, National Institute of Information and Communications Technology (NICT), Japan
+
 projects:
     title: Activities
     assignments:
