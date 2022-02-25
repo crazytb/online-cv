@@ -19,7 +19,6 @@
   <ul>
   {% for activity in activities.assignments %}
     <div class="item">
-
       <span class="project-title">
         {% if activity.link %}
         <a href="{{ activity.link }}" target="_blank">{{ activity.title }}</a>
@@ -27,11 +26,9 @@
         {{ activity.title }}
         {% endif %}
       </span>
-
       {% if activity.tagline %}
       - <span class="project-tagline">{{ activity.tagline }}</span>
       {% endif %}
-
     </div><!--//item-->
   {% endfor %}
   </ul>
