@@ -1,7 +1,6 @@
 {% assign activities = site.data.data.activities %}
 {% if activities %}
-<section class="section projects-section">
-
+<section class="section awards-section">
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
@@ -16,22 +15,22 @@
   </div><!--//intro-->
   {% endif %}
 
-  <ul>
   {% for activity in activities.assignments %}
-    <div class="item">
-      <span class="project-title">
-        {% if activity.link %}
-        <a href="{{ activity.link }}" target="_blank">{{ activity.title }}</a>
-        {% else %}
-        {{ activity.title }}
-        {% endif %}
-      </span>
-      {% if activity.tagline %}
-      - <span class="project-tagline">{{ activity.tagline }}</span>
-      {% endif %}
-    </div><!--//item-->
+  <div class="item">
+    <div class="meta">
+      <div class="upper-row">
+        <h3 class="job-title">{{ activity.item }}</h3>
+        <div class="time">{{ activity.time }}</div>
+      </div><!--//upper-row-->
+    </div><!--//meta-->
+    {% if award.details %}
+    <div class="details">
+      {{ award.details | markdownify }}
+    </div><!--//details-->
+    {% endif %}
+  </div><!--//item-->
   {% endfor %}
-  </ul>
-
+  {% endfor %}
+  
 </section><!--//section-->
 {% endif %}
