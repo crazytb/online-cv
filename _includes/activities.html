@@ -23,9 +23,9 @@
         <div class="time">{{ activity.time }}</div>
       </div><!--//upper-row-->
     </div><!--//meta-->
-    {% if award.details %}
+    {% if activity.details %}
     <div class="details">
-      {{ award.details | markdownify }}
+      {{ activity.details | markdownify }}
     </div><!--//details-->
     {% endif %}
   </div><!--//item-->
