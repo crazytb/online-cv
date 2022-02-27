@@ -19,15 +19,10 @@
   <div class="item">
     <div class="meta">
       <div class="upper-row">
-        <h3 class="job-title">{{ activity.item }}</h3>
-        <div class="time">{{ activity.time }}</div>
+      <p><h3 class="job-title">{{ activity.item }}</h3>
+        <div class="time">{{ activity.time }}</div></p>
       </div><!--//upper-row-->
     </div><!--//meta-->
-    {% if activity.details %}
-    <div class="details">
-      {{ activity.details | markdownify }}
-    </div><!--//details-->
-    {% endif %}
   </div><!--//item-->
   {% endfor %}
   
