@@ -7,7 +7,7 @@
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fas fa-file-contract fa-stack-1x fa-inverse"></i>
     </span>
-    {{ projects.title }}
+    Projects
   </h2>
 
   {% if projects.intro %}
@@ -16,25 +16,17 @@
   </div><!--//intro-->
   {% endif %}
 
-  <ul>
-  {% for project in projects.assignments %}
-    <div class="item">
-
-      <span class="project-title">
-        {% if project.link %}
-        <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
-        {% else %}
-        {{ project.title }}
-        {% endif %}
-      </span>
-
-      {% if project.tagline %}
-      - <span class="project-tagline">{{ project.tagline }}</span>
-      {% endif %}
-
-    </div><!--//item-->
-  {% endfor %}
-  </ul>
+  {% for project in projects %}
+  <div class="item">
+    <div class="meta">
+      <div class="upper-row">
+        <h3 class="job-title">{{ project.title }}, {{ project.role }}</h3>
+        <div class="time">{{ project.time }}</div>
+      </div><!--//upper-row-->
+      <div class="company">{{ project.company }}</div>
+    </div><!--//meta-->
+  </div><!--//item-->
+    {% endfor %}
 
 </section><!--//section-->
 {% endif %}
