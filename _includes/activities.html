@@ -20,10 +20,10 @@
     <div class="meta">
       <div class="upper-row">
       <p><h3 class="job-title">
-        {% if activities.link %}
-          <li><a href="{{ activities.link }}" target='_blank'>{{ activities.item }}</a></li>
+        {% if activity.link %}
+          <li><a href="{{ activity.link }}" target='_blank'>{{ activity.item }}</a></li>
         {% else %}
-          <li>{{ activities.item }}</li>
+          <li>{{ activity.item }}</li>
         {% endif %}
       </h3>
         <div class="time">{{ activity.time }}</div></p>
