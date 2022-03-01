@@ -94,11 +94,12 @@ activities:
     - item: ICCE 2022 session chair
       time: 2022.
       link: "https://edas.info/p28454"
-      # tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    - item: IEEE GLOBECOM 2021 main reviewer
+      time: 2021.
+      link: "https://ieeexplore.ieee.org/abstract/document/9685923"
     - item: ICCE-Asia 2020 session chair
       time: 2020.
       link: "http://icce-asia.cric.kr/2020/"
-      # tagline: "A responsive website template designed to help startups promote, market and sell their products."
       
 projects:
     - title: 서비스품질 및 정보신선도를 고려한 강화학습 기반 무선랜 시스템 설계
