@@ -21,9 +21,9 @@
       <div class="upper-row">
       <p><h3 class="job-title">
         {% if activity.link %}
-          <li><a href="{{ activity.link }}" target='_blank'>{{ activity.item }}</a></li>
+          <a href="{{ activity.link }}" target='_blank'>{{ activity.item }}</a>
         {% else %}
-          <li>{{ activity.item }}</li>
+          {{ activity.item }}
         {% endif %}
       </h3>
         <div class="time">{{ activity.time }}</div></p>
