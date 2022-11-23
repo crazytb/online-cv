@@ -154,10 +154,25 @@ publications:
     #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
     #   bibendum fringilla a eu lectus.
     papers:
+      - title: GAN-based sensor data augmentation; Application for counting moving people and detecting directions using PIR sensors
+        link: "https://www.sciencedirect.com/science/article/pii/S0952197622004985"
+        authors: Jaeseok Yun, Daehee Kim, Dong Min Kim, Taewon Song, and Jiyoung Woo
+        conference: "Engineering Applications of Artificial Intelligence, Volume 117, Part A, p. 105508, 2023."
+      
+      - title: CSV; Content Service Offloading System with Vehicular Caching
+        link: "https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/itr2.12255"
+        authors: Yeunwoong Kyung and Taewon Song
+        conference: "Sensors, Vol. 22, Issue. 20, p. 7967, Oct 2022."
+
+      - title: Opportunistic Offloading Scheme for Content Delivery Service using Electro-Mobility Networks
+        link: "https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/itr2.12255"
+        authors: Yeunwoong Kyung, Eunchan Kim, and Taewon Song
+        conference: "IET Intelligent Transport Systems, on Early access. Aug 2022."
+
       - title: Performance Analysis of Synchronous Multi-Radio Multi-Link MAC Protocols in IEEE 802.11be Extremely High Throughput WLANs
         link: "https://www.mdpi.com/2076-3417/11/1/317"
         authors: Taewon Song and Taeyoon Kim
-        conference: Applied Science, Vol. 11, Issue. 1, p. 317, Jan. 2021.
+        conference: "Applied Science, Vol. 11, Issue. 1, p. 317, Jan. 2021."
 
       - title: "An Energy Efficient Message Dissemination Scheme in Platoon-Based Driving Systems"
         link: "https://www.mdpi.com/1996-1073/13/15/3940"
@@ -181,6 +196,11 @@ publications:
 
       - title: "Phase-Divided MAC Protocol for Integrated Uplink and Downlink Multi-User MIMO WLANs"
         link: "https://ieeexplore.ieee.org/document/8119964"
+        authors: Tae-Yoon Kim, Taewon Song, Wonjung Kim, and Sangheon Pack
+        conference: "IEEE Transactions on Vehicular Technology (TVT), Vol. 67, Issue. 4, pp. 3172-3185, Nov 2017."
+
+      - title: "VoIP Capacity Analysis in Full Duplex WLANs"
+        link: "https://ieeexplore.ieee.org/document/7987027/"
         authors: Wonjung Kim, Taewon Song, Tae-Yoon Kim, Hyunhee Park, and Sangheon Pack
         conference: "IEEE Transactions on Vehicular Technology (TVT), Vol. 12, Issue. 12, pp. 11419-11424, December 2017."
 
