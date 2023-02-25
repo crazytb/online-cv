@@ -164,6 +164,11 @@ publications:
         link: "https://www.sciencedirect.com/science/article/pii/S0952197622004985"
         authors: Jaeseok Yun, Daehee Kim, Dong Min Kim, Taewon Song, and Jiyoung Woo
         conference: "Engineering Applications of Artificial Intelligence, Volume 117, Part A, p. 105508, 2023."
+        
+      - title: An Improved Routing Approach for Enhancing QoS Performance for D2D Communication in B5G Networks
+        link: "https://www.mdpi.com/2079-9292/11/24/4118"
+        authors: Valmik Tilwari, Taewon Song, and Sangheon Pack
+        conference: "Electronics, Vol. 11, Issue, 24, p. 4118, Dec 2022."
       
       - title: CSV; Content Service Offloading System with Vehicular Caching
         link: "https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/itr2.12255"
