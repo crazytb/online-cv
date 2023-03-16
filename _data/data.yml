@@ -160,6 +160,11 @@ publications:
     #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
     #   bibendum fringilla a eu lectus.
     papers:
+      - title: HARE: Hybrid ARQ-Based Adaptive Retransmission Control Scheme for Synchronous Multi-Link in Wireless LANs
+        link: "https://ieeexplore.ieee.org/document/10071968"
+        authors: Taewon Song and Woong-hee Lee
+        conference: "IEEE Transactions on Vehicular Technology (TVT), in early access, 2023."
+    
       - title: GAN-based sensor data augmentation; Application for counting moving people and detecting directions using PIR sensors
         link: "https://www.sciencedirect.com/science/article/pii/S0952197622004985"
         authors: Jaeseok Yun, Daehee Kim, Dong Min Kim, Taewon Song, and Jiyoung Woo
