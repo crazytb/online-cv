@@ -108,18 +108,18 @@ projects:
         considering Communication/Network Characteristics
       company: 한국연구재단, 과제책임자
       time: 2022. - Current
-    - title: Tbps급 무선 접속 기술 연구 및 성능 검증
-      company: 한국전자통신연구원 (ETRI), 연구자
-      time: 2022. - Current
-    - title: IoT 실증을 위한 무선 네트워크 드라이버 시작품 개발
-      company: 한국전자기술연구원 (KETI), 연구자
-      time: 2022. - Current
-    - title: 서비스품질 및 정보신선도를 고려한 강화학습 기반 무선랜 시스템 설계
-      company: 소프트웨어중심대학사업 산학협력프로젝트, 과제책임자
-      time: 2022. - Current
     - title: AIoT 기반 미래 모빌리티 인터랙션 시스템기술개발
       company: 지자체-대학 협력기반 지역혁신 사업, 소과제 책임자
       time: 2021. - Current
+    - title: IoT 실증을 위한 무선 네트워크 드라이버 시작품 개발
+      company: 한국전자기술연구원 (KETI), 연구자
+      time: 2022. - Current
+    - title: Tbps급 무선 접속 기술 연구 및 성능 검증
+      company: 한국전자통신연구원 (ETRI), 연구자
+      time: 2022. - 2023.
+    - title: 서비스품질 및 정보신선도를 고려한 강화학습 기반 무선랜 시스템 설계
+      company: 소프트웨어중심대학사업 산학협력프로젝트, 과제책임자
+      time: 2022. - 2023.
     - title: Research on AI-empowered WLAN System with High Efficient Performance
       company: Soonchunhyang University, Principal Investigator
       time: 2021. - 2022.
