@@ -165,27 +165,27 @@ publications:
       - title: "HARE: Hybrid ARQ-Based Adaptive Retransmission Control Scheme for Synchronous Multi-Link in Wireless LANs"
         link: "https://ieeexplore.ieee.org/document/10071968"
         authors: Taewon Song and Woong-hee Lee
-        conference: "IEEE Transactions on Vehicular Technology (TVT), in early access, 2023."
+        conference: "IEEE Transactions on Vehicular Technology (TVT), Vol. 72, Issue. 8, pp. 10302 - 10313, Aug. 2023."
     
       - title: "GAN-based sensor data augmentation: Application for counting moving people and detecting directions using PIR sensors"
         link: "https://www.sciencedirect.com/science/article/pii/S0952197622004985"
         authors: Jaeseok Yun, Daehee Kim, Dong Min Kim, Taewon Song, and Jiyoung Woo
-        conference: "Engineering Applications of Artificial Intelligence, Volume 117, Part A, p. 105508, 2023."
+        conference: "Engineering Applications of Artificial Intelligence, Vol. 117, Part A, p. 105508, 2023."
         
       - title: "An Improved Routing Approach for Enhancing QoS Performance for D2D Communication in B5G Networks"
         link: "https://www.mdpi.com/2079-9292/11/24/4118"
         authors: Valmik Tilwari, Taewon Song, and Sangheon Pack
-        conference: "Electronics, Vol. 11, Issue, 24, p. 4118, Dec 2022."
+        conference: "Electronics, Vol. 11, Issue, 24, p. 4118, Dec. 2022."
       
       - title: "CSV: Content Service Offloading System with Vehicular Caching"
         link: "https://www.mdpi.com/1893806"
         authors: Yeunwoong Kyung and Taewon Song
-        conference: "Sensors, Vol. 22, Issue. 20, p. 7967, Oct 2022."
+        conference: "Sensors, Vol. 22, Issue. 20, p. 7967, Oct. 2022."
 
       - title: "Opportunistic Offloading Scheme for Content Delivery Service using Electro-Mobility Networks"
         link: "https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/itr2.12255"
         authors: Yeunwoong Kyung, Eunchan Kim, and Taewon Song
-        conference: "IET Intelligent Transport Systems, in early access. Aug 2022."
+        conference: "IET Intelligent Transport Systems, in early access. Aug. 2022."
 
       - title: "Performance Analysis of Synchronous Multi-Radio Multi-Link MAC Protocols in IEEE 802.11be Extremely High Throughput WLANs"
         link: "https://www.mdpi.com/2076-3417/11/1/317"
@@ -215,47 +215,47 @@ publications:
       - title: "Phase-Divided MAC Protocol for Integrated Uplink and Downlink Multi-User MIMO WLANs"
         link: "https://ieeexplore.ieee.org/document/8119964"
         authors: Tae-Yoon Kim, Taewon Song, Wonjung Kim, and Sangheon Pack
-        conference: "IEEE Transactions on Vehicular Technology (TVT), Vol. 67, Issue. 4, pp. 3172-3185, Nov 2017."
+        conference: "IEEE Transactions on Vehicular Technology (TVT), Vol. 67, Issue. 4, pp. 3172-3185, Nov. 2017."
 
       - title: "VoIP Capacity Analysis in Full Duplex WLANs"
         link: "https://ieeexplore.ieee.org/document/7987027/"
         authors: Wonjung Kim, Taewon Song, Tae-Yoon Kim, Hyunhee Park, and Sangheon Pack
-        conference: "IEEE Transactions on Vehicular Technology (TVT), Vol. 12, Issue. 12, pp. 11419-11424, December 2017."
+        conference: "IEEE Transactions on Vehicular Technology (TVT), Vol. 12, Issue. 12, pp. 11419-11424, Dec. 2017."
 
       - title: "RA-PSM: A Rate-Aware Power Saving Mechanism in Multi-Rate Wireless LANs"
         link: "https://link.springer.com/article/10.1007/s11276-015-1064-3"
         authors: Sangheon Pack, Seongman Min, Taewon Song, Wonjung Kim, Nakjung Choi, and Hyunhee Park
-        conference: "Springer Wireless Networks, Vol. 22, Issue. 6, pp. 1767-1777, August 2016."
+        conference: "Springer Wireless Networks, Vol. 22, Issue. 6, pp. 1767-1777, Aug. 2016."
         
       - title: "ORS-FA: An Opportunistic Relay Selection Scheme for Frame-Aggregated Environments"
         link: "https://link.springer.com/article/10.1007/s11277-015-2351-0"
         authors: Taewon Song, Wonjung Kim, and Sangheon Pack
-        conference: " Springer Wireless Personal Communications, Vol. 82, Issue. 4, pp. 2351-2361, June 2015."
+        conference: " Springer Wireless Personal Communications, Vol. 82, Issue. 4, pp. 2351-2361, Jun. 2015."
 
       - title: "Multi-band Directional Neighbor Discovery in Self-Organized mmWave ad-hoc Networks"
         link: "https://ieeexplore.ieee.org/document/6826578"
         authors: Hyunhee Park, Yongsun Kim, Taewon Song, and Sangheon Pack
-        conference: "IEEE Transactions on Vehicular Technology (TVT), Vol. 64, Issue. 3, pp. 1143-1155, March 2015."
+        conference: "IEEE Transactions on Vehicular Technology (TVT), Vol. 64, Issue. 3, pp. 1143-1155, Mar.h 2015."
 
       - title: "FRAS: Fair Rate Adaptation Scheme for Directional Multicast in 60GHz Multi-Gigabits WLANs"
         link: "https://link.springer.com/content/pdf/10.1007/s11277-013-1551-8.pdf"
         authors: Wonjung Kim, Taewon Song, and Sangheon Pack
-        conference: "Springer Wireless Personal Communications, Vol. 77, Issue. 2, pp. 1007-1017, July 2014."
+        conference: "Springer Wireless Personal Communications, Vol. 77, Issue. 2, pp. 1007-1017, Jul. 2014."
 
       - title: "A Cross Layer Approach to Reduce Channel Access Delay Jitter in IEEE 802.11 WLANs"
         link: "https://link.springer.com/content/pdf/10.1007/s11277-012-0639-x.pdf"
         authors: Sangheon Pack, Kihun Kim, Wonjung Kim, Taewon Song, and Seongman Min
-        conference: "Springer Wireless Personal Communications, Vol. 69, Issue. 4, pp. 1379-1390, April 2013."
+        conference: "Springer Wireless Personal Communications, Vol. 69, Issue. 4, pp. 1379-1390, Apr. 2013."
 
       - title: "An Incremental Multicast Grouping Scheme for mmWave Networks with Directional Antennas"
         link: "https://ieeexplore.ieee.org/document/6414579"
         authors: Hyunhee Park, Seunghyun Park, Taewon Song, and Sangheon Pack
-        conference: "IEEE Communications Letter, Vol. 17, Issue. 3, pp. 616-619, March 2013."
+        conference: "IEEE Communications Letter, Vol. 17, Issue. 3, pp. 616-619, Mar. 2013."
 
       - title: "A Channel Adaptive ACK Mechanism in High Rate Wireless Personal Area Networks"
         link: "https://link.springer.com/article/10.1007/s11277-011-0353-0"
         authors: Jong-In Lee, Wonjung Kim, Taewon Song, Sangheon Pack, Chul-Hee Kang, and Sungho Hwang
-        conference: "Springer Wireless Personal Communications, Vol. 66, Issue. 2, pp. 473-488, September 2012."
+        conference: "Springer Wireless Personal Communications, Vol. 66, Issue. 2, pp. 473-488, Sep. 2012."
 
 # skills:
 #     title: Skills &amp; Proficiency
