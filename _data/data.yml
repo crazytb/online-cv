@@ -57,11 +57,11 @@ education:
     - degree: Ph.D. in Electronics, Electrical and Computer Engineering
       university: Korea University
       time: 2010. - 2017.
-      # details: |
+      details: Advisor: Sangheon Pack (shpack@korea.ac.kr)
     - degree: B.E. in Electrical Engineering
       university: Korea University
       time: 2005. - 2010.
-      # details: |
+      details: |
 
 experiences:
     - role: Assistant Professor
