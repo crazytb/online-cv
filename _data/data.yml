@@ -105,8 +105,9 @@ activities:
       link: "http://icce-asia.cric.kr/2020/"
       
 projects:
-    - title: |
-        Framework Development of Service-oriented Autonomous Artificial Intelligence of Things 
+    - title: >
+        Framework Development of Service-oriented
+        Autonomous Artificial Intelligence of Things 
         considering Communication/Network Characteristics
       company: 한국연구재단, 과제책임자
       time: 2022. - Current
